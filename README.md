@@ -1,5 +1,5 @@
 <h1 align="center">Hello there, I'm Alex 🐸</h1>
-<h2 align="center">Dev Padawan</h3>
+<h2 align="center">Dev Padawan</h2>
 
 ---
 
@@ -19,9 +19,17 @@
 <br>
 
 <h3 align="left">Frontend projects:</h3>
+
+<p align="left">--- <strong>Secret Room Website</strong> - the redesigned Secret Room company website project
+<br>
+-- Repository: <a href="https://github.com/Alex-Miarowski/sr-website" target="_blank" rel="noreferrer">https://github.com/Alex-Miarowski/sr-website</a>
+<br>
+- Live: <a href="https://alex-miarowski.github.io/sr-website/" target="_blank" rel="noreferrer">https://alex-miarowski.github.io/sr-website/</a></p>
+<br>
+
 <p align="left">--- <strong>My Virtual Bookshelf</strong> - book searching application using the Google Books API
 <br>
--- Repository: <a href="https://github.com/Alex-Miarowski/site-clone-forest-website" target="_blank" rel="noreferrer">https://github.com/Alex-Miarowski/site-clone-forest-website</a>
+-- Repository: <a href="https://github.com/Alex-Miarowski/my-virtual-bookshelf-demo" target="_blank" rel="noreferrer">https://github.com/Alex-Miarowski/my-virtual-bookshelf-demo</a>
 <br>
 - Live: <a href="https://alex-miarowski.github.io/my-virtual-bookshelf-demo/" target="_blank" rel="noreferrer">https://alex-miarowski.github.io/my-virtual-bookshelf-demo/</a></p>
 <br>
